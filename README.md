@@ -18,3 +18,6 @@ The Financial Chatbot is a simple, rule-based chatbot designed to provide financ
 - `index.html`: The HTML template for the chatbot interface.
 - `styles.css`: The CSS file for styling the chatbot interface.
 - `app.js`: The JavaScript file managing the chat interactions.
+
+## Chatbot Output Image
+![Test Image](https://imgur.com/a/XSGrs2x)
