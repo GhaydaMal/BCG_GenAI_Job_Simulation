@@ -19,3 +19,5 @@ The Financial Chatbot is a simple, rule-based chatbot designed to provide financ
 - `styles.css`: The CSS file for styling the chatbot interface.
 - `app.js`: The JavaScript file managing the chat interactions.
 
+## Chatbot Output Result
+![Alt text](https://github.com/GhaydaMal/BCG_GenAI_Job_Simulation/blob/main/chatbot.png)
