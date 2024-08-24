@@ -20,4 +20,5 @@ The Financial Chatbot is a simple, rule-based chatbot designed to provide financ
 - `app.js`: The JavaScript file managing the chat interactions.
 
 ## Chatbot Output Image
-![Test Image](https://imgur.com/a/XSGrs2x)
+![Chatbot Result](https://i.imgur.com/XSGrs2x.png)
+
