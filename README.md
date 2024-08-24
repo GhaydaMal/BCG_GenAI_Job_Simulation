@@ -1,4 +1,3 @@
-# BCG_GenAI_Job_Simulation
 # Financial Chatbot
 
 ## Overview
